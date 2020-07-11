@@ -5,7 +5,7 @@
 [:globe_with_meridians: Website](https://www.ryandsilva.dev/)
 
 - ⚙️ Stuff I use daily: `.js`, `.dart`, `.vue`, `.py`, `.ipynb`
-- 🌱 I’m currently learning GraphQL
+- 🌱 I’m currently learning GraphQL and Kubernetes
 - 🌏 I'm mostly active within the **JavaScript Community**, **Flutter Community** and **Deep Learning Community**
 - 👯 I’m looking to collaborate on deep learning projects
 - 📖 I write tech articles on [Medium](https://medium.com/@ryan.dsilva)
