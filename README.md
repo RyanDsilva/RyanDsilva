@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**RyanDsilva/RyanDsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Full-Stack Developer and Deep Learning Enthusiast from Mumbai, India.
 
-Here are some ideas to get you started:
+[:globe_with_meridians: Website](https://www.ryandsilva.dev/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚙️ Stuff I use daily: `.js`, `.dart`, `.vue`, `.py`, `.ipynb`
+- 🌱 I’m currently learning GraphQL
+- 🌏 I'm mostly active within the **JavaScript Community**, **Flutter Community** and **Deep Learning Community**
+- 👯 I’m looking to collaborate on deep learning projects
+- 📖 I write tech articles on [Medium](https://medium.com/@ryan.dsilva)
+- 💬 Ping me about **system design**, **full stack development**, **flutter**, **deep learning**
+- 📧 Reach me: [contact@ryandsilva.dev](mailto:contact@ryandsilva.dev)
+- 🌟 Fun fact: I play 5 instruments 🎸🎹
