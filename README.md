@@ -18,6 +18,8 @@
   <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
+<br>
+
 - ⚙️ Stuff I use daily: `.js`, `.dart`, `.vue`, `.py`, `.ipynb`
 - 🌱 I’m currently learning GraphQL and Kubernetes
 - 🌏 I'm mostly active within the **JavaScript Community**, **Flutter Community** and **Deep Learning Community**
