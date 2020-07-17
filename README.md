@@ -26,5 +26,5 @@
 - 👯 I’m looking to collaborate on deep learning projects
 - 📖 I write tech articles on [Medium](https://medium.com/@ryan.dsilva)
 - 💬 Ping me about **system design**, **full stack development**, **flutter**, **deep learning**
-- 📧 Reach me: [contact@ryandsilva.dev](mailto:ryan.dsilva.98@gmail.com)
+- 📧 Reach me: [ryan.dsilva.98@gmail.com](mailto:ryan.dsilva.98@gmail.com)
 - 🌟 Fun fact: I play 4 instruments 🎸🎹
