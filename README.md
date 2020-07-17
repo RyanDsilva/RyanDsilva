@@ -28,5 +28,3 @@
 - 💬 Ping me about **system design**, **full stack development**, **flutter**, **deep learning**
 - 📧 Reach me: [ryan.dsilva.98@gmail.com](mailto:ryan.dsilva.98@gmail.com)
 - 🌟 Fun fact: I play 4 instruments 🎸🎹
-
-[![HitCount](http://hits.dwyl.com/RyanDsilva/RyanDsilva.svg)](http://hits.dwyl.com/RyanDsilva/RyanDsilva)
