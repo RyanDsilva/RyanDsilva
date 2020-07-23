@@ -20,6 +20,8 @@
 
 <br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryandsilva" alt="ryandsilva" /> </p>
+
 - ⚙️ Stuff I use daily: `.js`, `.dart`, `.vue`, `.py`, `.ipynb`
 - 🌱 I’m currently learning GraphQL and Kubernetes
 - 🌏 I'm mostly active within the **JavaScript Community**, **Flutter Community** and **Deep Learning Community**
@@ -28,3 +30,13 @@
 - 💬 Ping me about **system design**, **full stack development**, **flutter**, **deep learning**
 - 📧 Reach me: [ryan.dsilva.98@gmail.com](mailto:ryan.dsilva.98@gmail.com)
 - 🌟 Fun fact: I play 4 instruments 🎸🎹
+
+<p align="left">
+  <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
+  <img src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/>
+  <img src="https://konpa.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/>
+  <img src="https://konpa.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="30" height="30"/>
+  <img src="https://konpa.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/>
+  <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/flutter.svg" alt="flutter" width="30" height="30"/>
+</p>
