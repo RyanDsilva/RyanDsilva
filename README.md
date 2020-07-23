@@ -2,6 +2,7 @@
 
 #### I'm a Full-Stack Developer and Deep Learning Enthusiast from Mumbai, India.
 
+<p>
 <a href="https://www.ryandsilva.dev/" target="_blank">
   <img src="https://img.shields.io/badge/website-%23E34F26.svg?&style=for-the-badge" />
 </a> 
@@ -17,8 +18,7 @@
 <a href="https://medium.com/@ryan.dsilva" target="_blank">
   <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
 </a>
-
-<br>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryandsilva" alt="ryandsilva" /> </p>
 
@@ -30,13 +30,3 @@
 - 💬 Ping me about **system design**, **full stack development**, **flutter**, **deep learning**
 - 📧 Reach me: [ryan.dsilva.98@gmail.com](mailto:ryan.dsilva.98@gmail.com)
 - 🌟 Fun fact: I play 4 instruments 🎸🎹
-
-<p align="left">
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="30" height="30"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="50" height="30"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/flutter.svg" alt="flutter" width="30" height="30"/>
-</p>
