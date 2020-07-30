@@ -23,7 +23,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryandsilva" alt="ryandsilva" /> </p>
 
 - ⚙️ Stuff I use daily: `.js`, `.dart`, `.vue`, `.py`, `.ipynb`
-- 🌱 I’m currently learning GraphQL and Kubernetes
+- 🌱 I’m currently learning about GraphQL and Serverless Architecture
 - 🌏 I'm mostly active within the **JavaScript Community**, **Flutter Community** and **Deep Learning Community**
 - 👯 I’m looking to collaborate on deep learning projects
 - 📖 I write tech articles on [Medium](https://medium.com/@ryan.dsilva)
