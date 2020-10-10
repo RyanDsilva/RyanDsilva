@@ -35,11 +35,9 @@
   <a href="https://aws.amazon.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
   <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
 </p>
 
 - 🌱 I’m currently learning about Serverless Architectures
-- 🌏 I'm mostly active within the **JavaScript Community**, **Flutter Community** and **Deep Learning Community**
 - 💬 Ping me about **system design**, **full stack development**, **flutter**, **deep learning**
 - 📧 Reach me: [ryan.dsilva.98@gmail.com](mailto:ryan.dsilva.98@gmail.com)
 - 🌟 Fun fact: I play 4 instruments 🎸🎹
