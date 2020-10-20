@@ -39,7 +39,7 @@
 
 - 🌱 I’m currently learning about Serverless Architectures
 - 💬 Ping me about **system design**, **full stack development**, **flutter**, **deep learning**
-- 📧 Reach me: [ryan.dsilva.98@gmail.com](mailto:ryan.dsilva.98@gmail.com)
+- 📧 Reach me: [contact@ryandsilva.dev](mailto:contact@ryandsilva.dev)
 - 🌟 Fun fact: I play 4 instruments 🎸🎹
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryandsilva&layout=compact" alt="ryandsilva" /></p>
