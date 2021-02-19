@@ -33,5 +33,5 @@
 <!-- BLOG-POST-LIST:START -->
 - [What I Learned Working At StartUps…](https://medium.com/dev-genius/what-i-learned-working-at-startups-1d856e677ef1?source=rss-7b93016e867c------2)
 - [Network Calls in Flutter](https://medium.com/dev-genius/network-calls-in-flutter-6ddd008a3a44?source=rss-7b93016e867c------2)
-- [Using Node.js in Production (Part III)](https://medium.com/javascript-in-plain-english/using-node-js-in-production-part-iii-5a7a3f2fe942?source=rss-7b93016e867c------2)
+- [Using Node.js in Production (Part III)](https://js.plainenglish.io/using-node-js-in-production-part-iii-5a7a3f2fe942?source=rss-7b93016e867c------2)
 <!-- BLOG-POST-LIST:END -->
