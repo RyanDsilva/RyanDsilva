@@ -23,7 +23,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryandsilva" alt="ryandsilva" /> </p>
 
 
-- 🌱 I’m currently learning about GraphQL and TDD
+- 🌱 I’m currently learning about Spring Boot and TDD
 - 💬 Ping me about **system design**, **full stack development**, **flutter**, **deep learning**
 - 📧 Reach me: [contact@ryandsilva.dev](mailto:contact@ryandsilva.dev)
 - 🌟 Fun fact: I play 4 instruments 🎸🎹
