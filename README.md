@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer from Mumbai, India currently working as an Associate Software Engineer with Freespace by Workplace Fabric.
+#### I'm a Full Stack Developer from Mumbai, India 🇮🇳
 
 <p>
 <a href="https://www.ryandsilva.dev/" target="_blank">
@@ -23,8 +23,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryandsilva" alt="ryandsilva" /> </p>
 
 
-- 🌱 I’m currently learning about JAVA Spring Boot and TDD
-- 💬 Ping me about **system design**, **full stack development**, **flutter**
+- 👨‍💻 Associate Software Engineer with [Freespace by Workplace Fabric](https://www.afreespace.com)
+- 🌱 I’m currently learning about JAVA Spring Boot and TDD (Test Driven Development)
+- 💬 Talk to me about **system design**, **full stack development**, **flutter** and **coding best practices**
 - 📧 Reach me: [contact@ryandsilva.dev](mailto:contact@ryandsilva.dev)
 - 🌟 Fun fact: I play 4 instruments 🎸🎹
 
