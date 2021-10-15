@@ -1,27 +1,28 @@
-### Hi there 👋
+### Hi There 👋
 
-#### I'm a Full Stack Developer from Mumbai, India 🇮🇳
+#### I'm a Full Stack Developer and a Deep Learning Enthusiast from Mumbai, India 🇮🇳
 
 <p>
-<a href="https://www.ryandsilva.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/website-%23E34F26.svg?&style=for-the-badge" />
+<a style="margin-right:5px;" href="https://www.ryandsilva.dev/" target="_blank">
+  <img width=30 height=30 src="images/web.svg" />
 </a> 
 
-<a href="https://twitter.com/ryan_dsilva98" target="_blank">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+<a style="margin-right:5px;" href="https://twitter.com/ryan_dsilva98" target="_blank">
+  <img width=30 height=30 src="images/twitter.svg" />
 </a> 
 
-<a href="https://www.linkedin.com/in/ryan-dsilva/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<a style="margin-right:5px;" href="https://www.linkedin.com/in/ryan-dsilva/" target="_blank">
+  <img width=30 height=30 src="images/linkedin.svg" />
 </a> 
 
 <a href="https://medium.com/@ryan.dsilva" target="_blank">
-  <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+  <img width=30 height=30 src="images/medium.svg" />
 </a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryandsilva" alt="ryandsilva" /> </p>
 
+---
 
 - 👨‍💻 Software Engineer with [Freespace by Workplace Fabric](https://www.afreespace.com)
 - 🌱 I’m currently exploring serverless technologies
@@ -29,7 +30,29 @@
 - 📧 Reach me: [contact@ryandsilva.dev](mailto:contact@ryandsilva.dev)
 - 🌟 Fun fact: I play 4 instruments 🎸🎹
 
-<h3 align="left">Latest Blog Posts:</h3>
+---
+
+<h3 align="left">Technologies</h3>
+
+<p>
+<img style="margin-right:2px;" width=30 height=30 src="images/javascript.svg" />
+<img style="margin-right:2px;" width=30 height=30 src="images/typescript.svg" />
+<img style="margin-right:2px;" width=30 height=30 src="images/nodejs.svg" />
+<img style="margin-right:2px;" width=30 height=30 src="images/mongodb.svg" />
+<img style="margin-right:2px;" width=30 height=30 src="images/sql.svg" />
+<img style="margin-right:2px;" width=30 height=30 src="images/vue.svg" />
+<img style="margin-right:2px;" width=30 height=30 src="images/graphql.svg" />
+<img style="margin-right:2px;" width=30 height=30 src="images/serverless.svg" />
+<img style="margin-right:2px;" width=30 height=30 src="images/python.svg" />
+<img style="margin-right:2px;" width=30 height=30 src="images/flutter.svg" />
+<img style="margin-right:2px;" width=30 height=30 src="images/docker.svg" />
+<img style="margin-right:2px;" width=30 height=30 src="images/jenkins.svg" />
+<img style="margin-right:2px;" width=30 height=30 src="images/aws.svg" />
+</p>
+
+---
+
+<h3 align="left">Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
 - [Trigger Events At A Specific Timestamp](https://levelup.gitconnected.com/trigger-events-at-a-specific-timestamp-2527f9336128?source=rss-7b93016e867c------2)
