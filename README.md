@@ -25,7 +25,7 @@
 
 - 👨‍💻 Software Engineer with [Freespace by Workplace Fabric](https://www.afreespace.com)
 - 🌱 I’m currently exploring serverless technologies
-- 💬 Talk to me about **system design**, **full stack development**, **flutter** and **coding best practices**
+- 💬 Talk to me about **system design**, **full stack development**, **flutter**, **deep learning** and **software development best practices**
 - 📧 Reach me: [contact@ryandsilva.dev](mailto:contact@ryandsilva.dev)
 - 🌟 Fun fact: I play 4 instruments 🎸🎹
 
