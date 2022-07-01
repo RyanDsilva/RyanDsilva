@@ -1,1 +1,7 @@
-![Metrics](https://metrics.lecoq.io/RyanDsilva?template=classic&base.community=0&base.metadata=0&languages=1&isocalendar=1&achievements=1&repositories=1&introduction=1&base.indepth=false&base.hireable=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.threshold=5%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&repositories.featured=RyanDsilva%2Ffeature_folder_cli&introduction.title=false&config.timezone=Asia%2FCalcutta&config.twemoji=true&config.octicon=true)
+# Hello, I'm Ryan Dsilva :sparkles:
+
+![Metrics](./my-metrics.svg)
+
+## Latest Blog Posts :books:
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
