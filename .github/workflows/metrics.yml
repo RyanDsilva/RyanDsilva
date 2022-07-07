@@ -17,7 +17,6 @@ jobs:
           template: classic
 
           config_timezone: Asia/Calcutta
-          config_padding: 0, -50%
 
           plugin_achievements: yes
           plugin_achievements_display: compact
