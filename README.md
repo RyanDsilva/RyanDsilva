@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="./my-metrics.svg" />
-</p>
-<!-- ![Metrics](./my-metrics.svg) -->
+![Metrics](./my-metrics.svg)
 ### Latest Blog Posts :books:
 <!-- BLOG-POST-LIST:START -->
 - [Securing Your Flutter Applications](https://blog.devgenius.io/securing-your-flutter-applications-77c2bf3ff25e?source=rss-7b93016e867c------2)
