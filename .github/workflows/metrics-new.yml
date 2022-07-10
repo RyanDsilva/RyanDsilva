@@ -19,8 +19,7 @@ jobs:
           base_indepth: yes
           config_display: columns
           config_octicon: yes
-          config_padding: 20, 20 - 10%
-          config_output: svg
+          # config_padding: 20, 20 - 10%
           config_timezone: Asia/Calcutta
           config_twemoji: yes
           plugin_achievements: yes
@@ -44,7 +43,6 @@ jobs:
           plugin_languages_analysis_timeout: 30
           plugin_languages_categories: programming
           plugin_languages_colors: github
-          plugin_languages_indepth: yes
           plugin_languages_limit: 8
           plugin_languages_recent_categories: programming
           plugin_languages_recent_days: 30
