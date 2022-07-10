@@ -20,7 +20,7 @@ jobs:
           config_display: columns
           config_octicon: yes
           config_padding: 5, 5
-          config_output: png
+          config_output: svg
           config_timezone: Asia/Calcutta
           config_twemoji: yes
           plugin_achievements: yes
@@ -56,4 +56,4 @@ jobs:
           output_action: commit
           committer_branch: master
           committer_message: "chore: update metrics"
-          filename: my-metrics.png
+          filename: my-metrics.svg
