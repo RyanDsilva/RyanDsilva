@@ -19,7 +19,7 @@ jobs:
           base_indepth: yes
           config_display: regular
           config_octicon: yes
-          config_padding: 125%, 105%
+          config_padding: 105%
           config_timezone: Asia/Calcutta
           config_twemoji: yes
           plugin_achievements: yes
