@@ -30,16 +30,16 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -234,14 +234,14 @@ Grad Student at Purdue University</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="123.2062751649411" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="123.2062751649411" y="0" width="88.04779794320164" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="211.25407310814273" y="0" width="79.84140534612357" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="291.0954784542663" y="0" width="68.73537842250857" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="359.8308568767749" y="0" width="38.60417098527605" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="398.43502786205096" y="0" width="23.893447184641104" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="422.32847504669206" y="0" width="20.2370801673459" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="442.56555521403794" y="0" width="17.434444785962057" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="122.12666481771271" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="122.12666481771271" y="0" width="87.2762681361127" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="209.4029329538254" y="0" width="79.32523639956031" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="288.7281693533857" y="0" width="71.98043212888153" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="360.7086014822672" y="0" width="38.26589712393188" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="398.9744986061991" y="0" width="23.684077874701654" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="422.65857648090076" y="0" width="20.059750229263543" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="442.7183267101643" y="0" width="17.28167328983568" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -966,6 +966,7 @@ Grad Student at Purdue University</div>
                                 </g>
                                 <g transform="translate(705, 0)">
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="19" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </g>
                             <g transform="translate(0, 144)">
@@ -1496,7 +1497,7 @@ Grad Student at Purdue University</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.7214236824093136 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.7638603696098607 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1747,7 +1748,7 @@ Grad Student at Purdue University</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Nov 2022, 06:54:21 (timezone Asia/Calcutta) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 22 Nov 2022, 06:55:35 (timezone Asia/Calcutta) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
