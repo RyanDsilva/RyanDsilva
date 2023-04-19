@@ -20,7 +20,7 @@ jobs:
           config_display: regular
           config_octicon: yes
           # config_padding: 10%
-          config_timezone: Asia/Calcutta
+          config_timezone: America/Indianapolis
           config_twemoji: yes
           plugin_achievements: yes
           plugin_achievements_display: detailed
