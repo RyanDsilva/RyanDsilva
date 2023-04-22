@@ -63,7 +63,7 @@ jobs:
           filename: 'my-metrics.svg'
           output_action: none
 
-      - uses: lowlighter/metrics@latest
+      - name: Push Metrics
         run: |
           set +e
           git checkout metrics-renders
