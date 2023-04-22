@@ -1,8 +1,8 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: [{ cron: "0 0 * * *" }]
   workflow_dispatch:
-  push: {branches: ["master"]}
+  push: { branches: ["master"] }
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -23,7 +23,7 @@ jobs:
           base_hireable: yes
           config_display: columns
           config_octicon: yes
-          config_padding: 0, 5%
+          config_padding: 10%, 10%
           config_timezone: America/Indianapolis
           plugin_achievements: yes
           plugin_achievements_display: detailed
@@ -36,7 +36,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_analysis_timeout_repositories: 7.5
-          plugin_languages_categories: markup, programming
+          plugin_languages_categories: programming
           plugin_languages_colors: github
           plugin_languages_ignored: html, css, markdown
           plugin_languages_limit: 8
@@ -60,7 +60,7 @@ jobs:
           repositories_affiliations: owner, contributor
           optimize: svg
           experimental_features: --optimize-svg
-          filename: 'my-metrics.svg'
+          filename: "my-metrics.svg"
           output_action: none
 
       - name: Push Metrics
@@ -73,4 +73,3 @@ jobs:
           git add --all
           git commit -m "chore: push metrics"
           git push
-
