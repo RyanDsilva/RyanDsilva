@@ -2265,8 +2265,8 @@ Grad Student at Purdue University \\ NLP
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
                 
-                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="230.29999999999998 329"/>
-                  <text x="60" y="60" dominant-baseline="central">70</text>
+                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="263.2 329"/>
+                  <text x="60" y="60" dominant-baseline="central">80</text>
                 
                 </svg>
               
@@ -2899,6 +2899,8 @@ Grad Student at Purdue University \\ NLP
                     
                       <rect class="day" x="0" y="19" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                     
+                      <rect class="day" x="0" y="34" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                    
                   </g>
                 
               </g>
@@ -2995,7 +2997,7 @@ Grad Student at Purdue University \\ NLP
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 31 Jul 2023, 21:09:44 (timezone America/Indianapolis) with lowlighter/metrics@3.33.0</span>
+          <span>Last updated 1 Aug 2023, 21:01:48 (timezone America/Indianapolis) with lowlighter/metrics@3.33.0</span>
         </footer>
       
 
