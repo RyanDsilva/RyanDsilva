@@ -4,7 +4,7 @@ Hi 👋 My name is Ryan Dsilva
 Full Stack Software Engineer
 ----------------------------
 
-I have 3 years of full stack development experience with enterprise-level software specializing in Python, TypeScript, Node.js, GraphQL, and Flutter. I enjoy working across entire product lifecycle from architecting, development to deployment and monitoring.
+I have 3 years of full stack development experience with enterprise-level software specializing in Python, TypeScript, GraphQL, and Flutter. I enjoy working across entire product lifecycle from architecting, development to deployment and monitoring.
 
 With my masters degree, I have also gained research experience working in the field of Natural Language Processing using Large Language Models with Python.
 
