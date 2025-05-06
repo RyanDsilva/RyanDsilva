@@ -1,14 +1,13 @@
 Hi 👋 My name is Ryan Dsilva
 ============================
 
-Full Stack Software Engineer
+Solutions Architect at Amazon Web Services
 ----------------------------
 
-I have 3 years of full stack development experience with enterprise-level software specializing in Python, TypeScript, GraphQL, and Flutter. I enjoy working across entire product lifecycle from architecting, development to deployment and monitoring.
+I have 3 years of full stack development experience with enterprise-level software specializing in Python, TypeScript, GraphQL, and Flutter. I enjoy working across entire product lifecycle from solution architecting, development to deployment.
 
-With my masters degree, I have also gained research experience working in the field of Natural Language Processing using Large Language Models with Python.
+With my masters degree, I also have research experience working in the field of Natural Language Processing using Large Language Models and Computational Humor.
 
-* 🌍  I'm based in United States
 * 🖥️  See my portfolio at [ryandsilva.dev](http://ryandsilva.dev)
 * ✉️  You can contact me at [contact@ryandsilva.dev](mailto:contact@ryandsilva.dev)
 * ⚡  I am a musician 🎸🎹
