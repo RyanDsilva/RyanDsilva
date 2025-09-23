@@ -4,7 +4,7 @@ Hi 👋 My name is Ryan Dsilva
 Solutions Architect at Amazon Web Services
 ----------------------------
 
-I have 3 years of full stack development experience with enterprise-level software specializing in Python, TypeScript, GraphQL, and Flutter. I enjoy working across entire product lifecycle from solution architecting, development to deployment.
+I have close to 4 years of full stack development experience with enterprise-level software specializing in Python, TypeScript, GraphQL, and Flutter. I enjoy working across entire product lifecycle from solution architecting, development to deployment.
 
 With my masters degree, I also have research experience working in the field of Natural Language Processing using Large Language Models and Computational Humor.
 
